@@ -1,2 +1,5 @@
-# TV0xel_LcTs
-TV0xel got renewed in February 2020! Now you can download them here!
+# TV0xel_LcTs LTS Branch
+TV0xel LTS Edition can be downloaded here:
+
+链接：UnReleased
+提取码：UnReleased
